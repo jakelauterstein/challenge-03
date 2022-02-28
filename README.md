@@ -46,7 +46,7 @@ https://jakelauterstein.github.io/challenge-03/
 * 0.3 
     * Added randomized generation functionality
 * 0.2
-    * Created basic functionaslity
+    * Created basic functionality
 * 0.1
     * Initialized files
 
