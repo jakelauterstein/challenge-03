@@ -36,9 +36,11 @@ jakelauterstein@gmail.com
 
 ## Link to deployed Application
 
+
+
 ## Screenshot 
 
-
+![full-site-screenshot](assets/password-screenshot.png)
 
 ## Version History
 * 0.3 
