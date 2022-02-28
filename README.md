@@ -14,7 +14,6 @@ a resulting randomnly generated password. The password creation is based around 
 ### Dependencies
 
 * Internet Browser with basic functionality is all that is required.
-* ex. Windows 10
 
 ### Executing program
 
