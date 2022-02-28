@@ -16,8 +16,6 @@ a resulting randomnly generated password. The password creation is based around 
 * Internet Browser with basic functionality is all that is required.
 * ex. Windows 10
 
-
-
 ### Executing program
 
 1. Click Generate Password
@@ -36,6 +34,12 @@ Jake Lauterstein
 
 jakelauterstein@gmail.com
 
+## Link to deployed Application
+
+## Screenshot 
+
+
+
 ## Version History
 * 0.3 
     * Added randomized generation functionality
@@ -43,6 +47,8 @@ jakelauterstein@gmail.com
     * Created basic functionaslity
 * 0.1
     * Initialized files
+
+
 
 ## Acknowledgments
 
